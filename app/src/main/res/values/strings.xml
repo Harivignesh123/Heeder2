@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Heeder</string>
+
+
+    //Shared Preferences
+    <string name="shared_preferences">shared_preferences</string>
+    <string name="id">id</string>
+    <string name="unique_id">unique_id</string>
+    <string name="name">name</string>
+    <string name="mail_id">mail_id</string>
+    <string name="user_role">user_role</string>
+    <string name="embeddings"></string>
+
+    //Background service
+    <string name="channel_name">Heeder</string>
+    <string name="channel_description">Looking at you</string>
+    <string name="notification_title">Looking at you</string>
+
+    //Account Page
+    <string name="login_text">Login</string>
+    <string name="create_account_text">Create Account</string>
+
+    //Firebase Auth
+    <string name="error_invalid_user_text">This account does not exists</string>
+    <string name="error_weak_password_text">Weak password. Give a strong password</string>
+    <string name="error_invalid_password_text">Invalid password</string>
+    <string name="error_user_exists_text">Account with this email id already exists</string>
+    <string name="error_invalid_email_format_text">Invalid Email Address</string>
+
+    //Input Validations
+    <string name="name_hint_text">Enter Name</string>
+    <string name="id_hint_text">Enter ID</string>
+    <!--    <string name="email_id_hint_text">Enter Email ID</string>-->
+    <string name="new_password_hint_text">Enter New Password</string>
+    <string name="confirm_password_hint_text">Enter Confirm Password</string>
+    <string name="forgot_password_text"><u>Forgot password?</u></string>
+    <string name="password_hint_text">Enter Password</string>
+
+    //Input validation error
+    <string name="fill_all_the_fields_text">Fill all the fields</string>
+    <string name="password_unmatch_text">Passwords did not match</string>
+    <string name="choose_user_type_text">Choose user type</string>
+
+    //Warning
+    <string name="no_internet_warning_message_text">Check your Internet</string>
+    <string name="no_face_captured_text">No face captured</string>
+
+    <string name="search_query_hint_text">Search with id or name</string>
+
+
+    //Faculty actions
+    <string name="start_class">Start Class</string>
+    <string name="end_class">End Class</string>
+
+</resources>

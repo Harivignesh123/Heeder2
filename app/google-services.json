@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "415408456736",
+    "firebase_url": "https://heeder-2-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "heeder-2",
+    "storage_bucket": "heeder-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415408456736:android:86940615158e716536a845",
+        "android_client_info": {
+          "package_name": "com.example.heeder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415408456736-f4ufqcuo83prqr1finkgfmqvsrls7umv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.heeder",
+            "certificate_hash": "a4f2b2d2d0bd169c651df37f8b4d7968f0809ffb"
+          }
+        },
+        {
+          "client_id": "415408456736-5llo4d9dmkgv9c2uu1041bslghgh8i3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgi_roQ0daKzLUzUmlKCx7cM6wrq0kBG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415408456736-5llo4d9dmkgv9c2uu1041bslghgh8i3n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

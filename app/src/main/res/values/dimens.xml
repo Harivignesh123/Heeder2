@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="countdown_circle_radius">60dp</dimen>
+    <dimen name="empty_view_size">100dp</dimen>
+
+    <item name="empty_view_alpha" type="integer" format="float">0.7</item>
+
+</resources>

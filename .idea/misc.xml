@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/Android projects/Heeder2/app/src/main/res/drawable-v24/edit_text_cursor.xml" value="0.1655" />
+        <entry key="..\:/Android/Android projects/Heeder2/app/src/main/res/drawable/take_picture_icon.xml" value="0.1605" />
+        <entry key="..\:/Android/Android projects/Heeder2/app/src/main/res/layout/activity_admin.xml" value="0.24155622060709706" />
+        <entry key="..\:/Android/Android projects/Heeder2/app/src/main/res/layout/activity_camera.xml" value="0.24155622060709706" />
+        <entry key="..\:/Android/Android projects/Heeder2/app/src/main/res/layout/activity_faculty.xml" value="0.24155622060709706" />
+        <entry key="..\:/Android/Android projects/Heeder2/app/src/main/res/layout/activity_faculty_control.xml" value="0.24155622060709706" />
+        <entry key="..\:/Android/Android projects/Heeder2/app/src/main/res/layout/activity_login_page.xml" value="0.24155622060709706" />
+        <entry key="..\:/Android/Android projects/Heeder2/app/src/main/res/layout/activity_main.xml" value="0.2942708333333333" />
+        <entry key="..\:/Android/Android projects/Heeder2/app/src/main/res/layout/activity_splash.xml" value="0.24155622060709706" />
+        <entry key="..\:/Android/Android projects/Heeder2/app/src/main/res/layout/activity_student.xml" value="0.24155622060709706" />
+        <entry key="..\:/Android/Android projects/Heeder2/app/src/main/res/layout/admin_list_item.xml" value="0.24155622060709706" />
+        <entry key="..\:/Android/Android projects/Heeder2/app/src/main/res/layout/faculty_list_item.xml" value="0.24155622060709706" />
+        <entry key="..\:/Android/Android projects/Heeder2/app/src/main/res/layout/fragment_create_account.xml" value="0.23001282599401454" />
+        <entry key="..\:/Android/Android projects/Heeder2/app/src/main/res/layout/fragment_login.xml" value="0.24155622060709706" />
+        <entry key="..\:/Android/Android projects/Heeder2/app/src/main/res/layout/student_list_item.xml" value="0.24155622060709706" />
+        <entry key="..\:/Android/Android projects/Heeder2/app/src/main/res/menu/account_main_menu.xml" value="0.2384972562262558" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
